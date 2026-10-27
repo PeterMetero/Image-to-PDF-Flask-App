@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.vscode/
+.pytest_cache/
+*.pyc
+instance/
+uploads/
+outputs/
+conversions.db
+.DS_Store
